@@ -5,10 +5,10 @@
 
 #### Parameters:
 > callback: 過濾所要回傳值的 function 。  
-(optional)currentValue: function 中迭代陣列中的值。  
-(optional)index: function 中迭代陣列中的指標。  
-(optional)array: 呼叫 forEach 的陣列。  
-(optional)thisArg
+(optional) currentValue: function 中迭代陣列中的值。 
+(optional) index: function 中迭代陣列中的指標。  
+(optional) array: 呼叫 forEach 的陣列。  
+(optional) thisArg
 
 #### Description:
 > 若陣列中之值為 undefined 的話，該值將不會被迭代到。
