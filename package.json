@@ -1,0 +1,22 @@
+{
+  "name": "f2elessons",
+  "version": "1.0.0",
+  "description": "f2e tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinvil/f2eLessons.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "kinvil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kinvil/f2eLessons/issues"
+  },
+  "homepage": "https://github.com/kinvil/f2eLessons#readme"
+}
