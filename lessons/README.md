@@ -4,8 +4,8 @@
 [變數預設值](https://github.com/kinvil/f2eLessons/blob/master/lessons/lesson_1_js_basic/%E8%AE%8A%E6%95%B8%E9%A0%90%E8%A8%AD%E5%80%BC.md)
 
 ### lesson 2
-[for -each](https://github.com/kinvil/f2eLessons/blob/master/lessons/lesson_2_js_array/for_each.md)  
-[for -in](https://github.com/kinvil/f2eLessons/blob/master/lessons/lesson_2_js_array/for_in.md)  
+[for - each](https://github.com/kinvil/f2eLessons/blob/master/lessons/lesson_2_js_array/for_each.md)  
+[for - in](https://github.com/kinvil/f2eLessons/blob/master/lessons/lesson_2_js_array/for_in.md)  
 [join](https://github.com/kinvil/f2eLessons/blob/master/lessons/lesson_2_js_array/join.md)  
 [map](https://github.com/kinvil/f2eLessons/blob/master/lessons/lesson_2_js_array/map.md)  
 [push, pop](https://github.com/kinvil/f2eLessons/blob/master/lessons/lesson_2_js_array/push_pop.md)  
