@@ -4,6 +4,7 @@
   "description": "f2e tutorial",
   "main": "index.js",
   "scripts": {
+    "p5": "node practices/practice_5_js_ajax/server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/kinvil/f2eLessons/issues"
   },
-  "homepage": "https://github.com/kinvil/f2eLessons#readme"
+  "homepage": "https://github.com/kinvil/f2eLessons#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  }
 }
