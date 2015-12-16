@@ -19,7 +19,6 @@ app.post('/api/getData', function (req, res) {
     else {
         jsonData = JSON.stringify({errMsg: '資料輸入錯誤'});
     }
-    
 
 	res.json(jsonData);
 });
