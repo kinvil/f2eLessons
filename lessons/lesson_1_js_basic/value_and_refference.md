@@ -1,4 +1,4 @@
-## 傳值與傳址
+## value and refference
 #### 原始型別，直接指定值
 ```
 var a = 10

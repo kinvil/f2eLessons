@@ -1,4 +1,4 @@
-## 建構式
+## create a constructor
 ```
 var F = function () {
 	this.a = 'hello';
