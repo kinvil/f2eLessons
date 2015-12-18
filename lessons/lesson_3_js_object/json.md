@@ -2,6 +2,7 @@
 
 #### JSON.stringify(o)
 > 將 object 轉為 JSON。
+
 #### JSON.parse(o)
 > 將 JSON 轉為 object。
 
