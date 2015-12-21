@@ -5,6 +5,7 @@
 [value and refference](https://github.com/kinvil/f2eLessons/blob/master/lessons/lesson_1_js_basic/value_and_refference.md)
 
 ### lesson 2
+[array](https://github.com/kinvil/f2eLessons/blob/master/lessons/lesson_2_js_array/array.md)  
 [filter](https://github.com/kinvil/f2eLessons/blob/master/lessons/lesson_2_js_array/filter.md)  
 [for - each](https://github.com/kinvil/f2eLessons/blob/master/lessons/lesson_2_js_array/for_each.md)  
 [for - in](https://github.com/kinvil/f2eLessons/blob/master/lessons/lesson_2_js_array/for_in.md)  
@@ -28,4 +29,5 @@
 [property test](https://github.com/kinvil/f2eLessons/blob/master/lessons/lesson_3_js_object/property_test.md)
 
 ### lesson 4
-[closure](https://github.com/kinvil/f2eLessons/blob/master/lessons/lesson_4_js_function/closure.md)
+[closure](https://github.com/kinvil/f2eLessons/blob/master/lessons/lesson_4_js_function/closure.md)  
+[object as arguments](https://github.com/kinvil/f2eLessons/blob/master/lessons/lesson_4_js_function/object_as_arguments.md)
