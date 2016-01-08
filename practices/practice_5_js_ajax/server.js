@@ -14,13 +14,13 @@ app.post('/api/getData', function (req, res) {
         jsonData = JSON.stringify({ identity: 'A123456789', hight: 180, weight: 80 });
     }
     else if (req.body.name === 'rose' && req.body.age === '18' && req.body.sex === '2') {
-        jsonData = JSON.stringify({ identity: 'B987654321', hight: 160, weight: 60 });   
+        jsonData = JSON.stringify({ identity: 'B987654321', hight: 160, weight: 60 });
     }
     else {
         jsonData = JSON.stringify({errMsg: '資料輸入錯誤'});
     }
 
-	res.json(jsonData);
+	res.send(jsonData);
 });
 
 app.get('/', function (req, res) {
